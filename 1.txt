@@ -1,0 +1,7 @@
+toplam 28
+drwxr-xr-x 3 nuri nuri  4096 Nis 21 16:41 .
+drwxr-xr-x 3 nuri nuri  4096 Nis 21 16:39 ..
+-rw-r--r-- 1 nuri nuri     0 Nis 21 16:41 1.txt
+drwxr-xr-x 8 nuri nuri  4096 Nis 21 16:39 .git
+-rw-r--r-- 1 nuri nuri 11357 Nis 21 16:39 LICENSE
+-rw-r--r-- 1 nuri nuri    18 Nis 21 16:39 README.md
